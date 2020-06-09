@@ -1,0 +1,1 @@
+D:\OneDrive\ -\ CUHK-Shenzhen\programming\RustProjects\toyRustProjects\ch04-01-what-is-ownership\target\debug\ch04-01-what-is-ownership.exe: D:\OneDrive\ -\ CUHK-Shenzhen\programming\RustProjects\toyRustProjects\ch04-01-what-is-ownership\src\main.rs

@@ -6,7 +6,6 @@ fn main() {
         println!("condition is false")
     }
 
-
     let cond=true;
     let number=if cond {
         5
